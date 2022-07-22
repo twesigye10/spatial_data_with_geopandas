@@ -143,3 +143,7 @@ inputs/
 outputs/
 
 !/**/.gitkeep
+
+.xml
+.idea
+.html
