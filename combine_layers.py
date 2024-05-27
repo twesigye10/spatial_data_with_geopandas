@@ -1,4 +1,5 @@
 import geopandas as gdp
+import pandas as pd
 
 df_data_177 = gdp.read_file(filename="outputs/177_buildings_ref_districts_kampala.gpkg")
 print("Finished reading file: 177_buildings")
